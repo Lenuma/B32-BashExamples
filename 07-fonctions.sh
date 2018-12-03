@@ -1,6 +1,6 @@
 #!/bin/bash
 
-maFoction() {
+maFonction() {
 	echo "paramètre : $1"
 }
 
